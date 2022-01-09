@@ -1,0 +1,7 @@
+const names = require('./14-names')
+const sayHi = require('./14-utils')
+const data = require('./15-alternative')
+require('./16-mindGrenade')
+sayHi('Shail')
+sayHi(names.john)
+sayHi(names.peter) 
